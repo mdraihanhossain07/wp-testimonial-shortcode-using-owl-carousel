@@ -1,0 +1,4 @@
+First install cpt and advanced custom field plugin download
+Then edit functions.php and use other files.
+
+last use [testimonials]
